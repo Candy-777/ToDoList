@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{564765DA-DBF4-4A19-B230-DC70A331683B}|UI.csproj|solutionrelative:addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{564765DA-DBF4-4A19-B230-DC70A331683B}|UI.csproj|d:\\g\\todolist-main\\ui\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{564765DA-DBF4-4A19-B230-DC70A331683B}|UI.csproj|D:\\g\\ToDoList-main\\UI\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{564765DA-DBF4-4A19-B230-DC70A331683B}|UI.csproj|solutionrelative:addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{564765DA-DBF4-4A19-B230-DC70A331683B}|UI.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{564765DA-DBF4-4A19-B230-DC70A331683B}|UI.csproj|d:\\g\\todolist-main\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{564765DA-DBF4-4A19-B230-DC70A331683B}|UI.csproj|D:\\g\\ToDoList-main\\UI\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{564765DA-DBF4-4A19-B230-DC70A331683B}|UI.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "AddForm.cs",
               "ToolTip": "D:\\g\\ToDoList-main\\UI\\AddForm.cs",
               "RelativeToolTip": "AddForm.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAA2wFwAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwFwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T13:23:29.4Z",
               "EditorCaption": ""
@@ -50,8 +50,7 @@
               "ToolTip": "D:\\g\\ToDoList-main\\UI\\AddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "AddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T13:23:25.284Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-11-29T13:23:25.284Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "ToolTip": "D:\\g\\ToDoList-main\\UI\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T13:23:16.716Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-11-29T13:23:16.716Z"
             }
           ]
         }
