@@ -1,4 +1,5 @@
-﻿using WebApi.Interfaces;
+﻿using Microsoft.AspNetCore.DataProtection.KeyManagement;
+using WebApi.Interfaces;
 using WebApi.Models;
 
 namespace WebApi.Repositories
@@ -37,7 +38,10 @@ namespace WebApi.Repositories
             return _innerRepository.Update(id, task);
         }
 
-        public bool Delete(int id) => _innerRepository.Delete(id);
+        public bool Delete(int id)
+        {     
+            return _innerRepository.Delete(id);
+        }
 
         public void DeleteAll() => _innerRepository.DeleteAll();
     }

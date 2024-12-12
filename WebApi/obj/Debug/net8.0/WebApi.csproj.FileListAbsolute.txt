@@ -100,3 +100,4 @@ D:\g\ToDoList-main\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionE
 D:\g\ToDoList-main\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\g\ToDoList-main\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 D:\g\ToDoList-main\WebApi\bin\Debug\net8.0\Scrutor.dll
+D:\g\ToDoList-main\WebApi\bin\Debug\net8.0\FluentValidation.AspNetCore.dll

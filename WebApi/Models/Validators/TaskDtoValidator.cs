@@ -1,5 +1,4 @@
-﻿using WebApi.Models;
-using FluentValidation;
+﻿using FluentValidation;
 
 
 namespace WebApi.Models.Validators

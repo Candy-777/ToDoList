@@ -1,30 +1,32 @@
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Mvc;
+using WebApi.Filters;
 using WebApi.Handlers;
 using WebApi.Interfaces;
-using WebApi.Repositories;
-using FluentValidation;
 using WebApi.Models.Validators;
-using Scrutor;
+using WebApi.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// добавление валидации
+// подключение валидации 
+
 builder.Services.AddValidatorsFromAssemblyContaining<TaskDtoValidator>();
+builder.Services.AddScoped<ValidationFilter>();
 
-// Добавление сервисов в контейнер
-builder.Services.AddControllers();
-
-// Регистрация обработчика задач (Handler) и репозитория (Repository) для DI
-
+// Регистрация репозиториев и обработчиков
 builder.Services.AddScoped<ITaskHandler, TaskHandler>();
 builder.Services.AddSingleton<ITaskRepository, TaskRepository>();
 builder.Services.Decorate<ITaskRepository, UniqueTitleTaskRepositoryDecorator>();
 
+// Добавление контроллеров
+builder.Services.AddControllers();
+
+// Добавление Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
 var app = builder.Build();
-
 
 if (app.Environment.IsDevelopment())
 {
@@ -32,7 +34,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+// Middleware для обработки ошибок
 app.UseMiddleware<ErrorHandlingMiddleware>();
+
 app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();

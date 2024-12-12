@@ -3,6 +3,24 @@
   "WorkspaceRootPath": "D:\\g\\ToDoList-main\\WebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F510237-442C-42D1-A494-88F030B5B7E3}|..\\UnitTest\\UnitTest.csproj|d:\\g\\todolist-main\\unittest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F510237-442C-42D1-A494-88F030B5B7E3}|..\\UnitTest\\UnitTest.csproj|d:\\g\\todolist-main\\unittest\\handlertestmoq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\repositories\\uniquetitletaskrepositorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:repositories\\uniquetitletaskrepositorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +29,59 @@
       "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:interfaces\\itaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\models\\validators\\taskdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:models\\validators\\taskdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\repositories\\uniquetitletaskrepositorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:repositories\\uniquetitletaskrepositorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\handlers\\taskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:handlers\\taskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\attribute\\validationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:attribute\\validationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\extencions\\dictionaryextencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:extencions\\dictionaryextencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F510237-442C-42D1-A494-88F030B5B7E3}|..\\UnitTest\\UnitTest.csproj|d:\\g\\todolist-main\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\filters\\validationfilterold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:filters\\validationfilterold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\models\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:models\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\models\\validators\\taskdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:models\\validators\\taskdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,81 +91,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\UnitTest\\Test.cs",
+              "RelativeDocumentMoniker": "..\\UnitTest\\Test.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\UnitTest\\Test.cs",
+              "RelativeToolTip": "..\\UnitTest\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:51:43.662Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ITaskHandler.cs",
-              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Interfaces\\ITaskHandler.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ITaskHandler.cs",
-              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Interfaces\\ITaskHandler.cs",
-              "RelativeToolTip": "Interfaces\\ITaskHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "HandlerTestMoq.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\UnitTest\\HandlerTestMoq.cs",
+              "RelativeDocumentMoniker": "..\\UnitTest\\HandlerTestMoq.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\UnitTest\\HandlerTestMoq.cs",
+              "RelativeToolTip": "..\\UnitTest\\HandlerTestMoq.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAlwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:25:55.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ITaskRepository.cs",
-              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Interfaces\\ITaskRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ITaskRepository.cs",
-              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Interfaces\\ITaskRepository.cs",
-              "RelativeToolTip": "Interfaces\\ITaskRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:25:54.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskHandler.cs",
-              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Handlers\\TaskHandler.cs",
-              "RelativeDocumentMoniker": "Handlers\\TaskHandler.cs",
-              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Handlers\\TaskHandler.cs",
-              "RelativeToolTip": "Handlers\\TaskHandler.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowD0AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T12:31:26.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Models\\TaskItem.cs",
-              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
-              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Models\\TaskItem.cs",
-              "RelativeToolTip": "Models\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:41:14.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:55:27.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskDtoValidator.cs",
-              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Models\\Validators\\TaskDtoValidator.cs",
-              "RelativeDocumentMoniker": "Models\\Validators\\TaskDtoValidator.cs",
-              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Models\\Validators\\TaskDtoValidator.cs",
-              "RelativeToolTip": "Models\\Validators\\TaskDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:47:10.519Z",
+              "WhenOpened": "2024-12-11T15:22:16.654Z",
               "EditorCaption": ""
             },
             {
@@ -127,22 +131,243 @@
               "RelativeDocumentMoniker": "Repositories\\UniqueTitleTaskRepositoryDecorator.cs",
               "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Repositories\\UniqueTitleTaskRepositoryDecorator.cs",
               "RelativeToolTip": "Repositories\\UniqueTitleTaskRepositoryDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T08:45:10.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "ITaskHandler.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Interfaces\\ITaskHandler.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITaskHandler.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Interfaces\\ITaskHandler.cs",
+              "RelativeToolTip": "Interfaces\\ITaskHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:25:55.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TaskRepository.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:47:04.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidationFilterAttribute.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Attribute\\ValidationFilterAttribute.cs",
+              "RelativeDocumentMoniker": "Attribute\\ValidationFilterAttribute.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Attribute\\ValidationFilterAttribute.cs",
+              "RelativeToolTip": "Attribute\\ValidationFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:26:02.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TaskController.cs",
               "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
               "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Controllers\\TaskController.cs",
               "RelativeToolTip": "Controllers\\TaskController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T20:30:45.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskHandler.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Handlers\\TaskHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\TaskHandler.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Handlers\\TaskHandler.cs",
+              "RelativeToolTip": "Handlers\\TaskHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAWwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:31:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi.csproj",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T21:28:37.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DictionaryExtencion.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Extencions\\DictionaryExtencion.cs",
+              "RelativeDocumentMoniker": "Extencions\\DictionaryExtencion.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Extencions\\DictionaryExtencion.cs",
+              "RelativeToolTip": "Extencions\\DictionaryExtencion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:20:55.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:55:27.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitTest",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\UnitTest\\UnitTest.csproj",
+              "RelativeDocumentMoniker": "..\\UnitTest\\UnitTest.csproj",
+              "ToolTip": "D:\\g\\ToDoList-main\\UnitTest\\UnitTest.csproj",
+              "RelativeToolTip": "..\\UnitTest\\UnitTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T15:59:17.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITaskRepository.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:25:54.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:41:14.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValidationFilterOld.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Filters\\ValidationFilterOld.cs",
+              "RelativeDocumentMoniker": "Filters\\ValidationFilterOld.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Filters\\ValidationFilterOld.cs",
+              "RelativeToolTip": "Filters\\ValidationFilterOld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:54:54.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Models\\TaskDto.cs",
+              "RelativeDocumentMoniker": "Models\\TaskDto.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Models\\TaskDto.cs",
+              "RelativeToolTip": "Models\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:15:00.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ValidationFilter.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Filters\\ValidationFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\ValidationFilter.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Filters\\ValidationFilter.cs",
+              "RelativeToolTip": "Filters\\ValidationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:22:23.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "Enums\\Priority.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Enums\\Priority.cs",
+              "RelativeToolTip": "Enums\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:53:22.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:02:27.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TaskDtoValidator.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Models\\Validators\\TaskDtoValidator.cs",
+              "RelativeDocumentMoniker": "Models\\Validators\\TaskDtoValidator.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Models\\Validators\\TaskDtoValidator.cs",
+              "RelativeToolTip": "Models\\Validators\\TaskDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:47:10.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebApi.http",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\WebApi.http",
+              "RelativeDocumentMoniker": "WebApi.http",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\WebApi.http",
+              "RelativeToolTip": "WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-08T19:51:50.842Z",
               "EditorCaption": ""
             }
           ]

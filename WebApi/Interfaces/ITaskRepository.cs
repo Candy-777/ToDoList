@@ -5,7 +5,7 @@ namespace WebApi.Interfaces
     public interface ITaskRepository
     {
         IEnumerable<TaskItem> GetAll();
-        TaskItem Get(int taskId);
+        TaskItem? Get(int taskId);
         bool Add(TaskItem item);
         bool Delete(int taskId);
         void DeleteAll();

@@ -1,4 +1,5 @@
-﻿using System.Net;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Net;
 using System.Text.Json;
 
 public class ErrorHandlingMiddleware
@@ -34,6 +35,7 @@ public class ErrorHandlingMiddleware
         {
             InvalidOperationException => (int)HttpStatusCode.NotFound,
             KeyNotFoundException => (int)HttpStatusCode.NotFound,
+            FluentValidation.ValidationException => (int)HttpStatusCode.BadRequest,
             ArgumentException => (int)HttpStatusCode.BadRequest,
             _ => (int)HttpStatusCode.InternalServerError,
         };

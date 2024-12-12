@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using WebApi.Interfaces;
 using WebApi.Models;
-using System.ComponentModel.DataAnnotations;
+using WebApi.Attribute;
 
 
 
@@ -12,7 +11,7 @@ namespace ToDoListApi.Controllers
     [ApiController]
     public class TaskController : ControllerBase
     {
-        private ITaskHandler _taskHandler;
+        private readonly ITaskHandler _taskHandler;
         private readonly ILogger<TaskController> _logger;
         public TaskController(ITaskHandler handler, ILogger<TaskController> logger)
         {
@@ -28,29 +27,28 @@ namespace ToDoListApi.Controllers
         [HttpGet("{id}", Name = "Get Task By Id")]
         public IActionResult GetTaskById(int id)
         {
-                var task = _taskHandler.GetTask(id);
-                return Ok(task); // Возвращаем 200 с задачей
+             return Ok(_taskHandler.GetTask(id)); // Возвращаем 200 с задачей
         }
 
         [HttpPost]
+        [ValidationFilter]
         public IActionResult CreateTask([FromBody] TaskDto newTaskDto)
         {
-             var result = _taskHandler.CreateTask(newTaskDto);
-             return Ok();
+             return Ok(_taskHandler.CreateTask(newTaskDto));
+            
         }
 
         [HttpPut("{id}")]
+        [ValidationFilter]
         public IActionResult UpdateTask(int id, [FromBody] TaskDto updatedTask)
         {
-            _taskHandler.UpdateTask(id, updatedTask);
-            return Ok();
+            return Ok(_taskHandler.UpdateTask(id, updatedTask));
         }
 
         [HttpDelete("{id}", Name = "Delete Task")]
         public IActionResult DeleteTask(int id)
         {
-          _taskHandler.DeleteTask(id);
-            return Ok();
+            return Ok(_taskHandler.DeleteTask(id));
         }
 
         [HttpDelete(Name = "Delete All Task")]

@@ -1,4 +1,5 @@
 ﻿using WebApi.Models;
+using WebApi.Extencions;
 using WebApi.Interfaces;
 
 namespace WebApi.Repositories
@@ -10,17 +11,12 @@ namespace WebApi.Repositories
 
         public IEnumerable<TaskItem> GetAll()
         {
-            var b = _tasks.Values;
             return _tasks.Values;
         }
 
-        public TaskItem? Get(int taskId)
+        public TaskItem Get(int taskId)
         {
-            if (_tasks.TryGetValue(taskId, out var task))
-            {
-                return task;
-            }
-            return null;
+            return _tasks.GetRequiredValue(taskId);
         }
 
         public bool Add(TaskItem item)
@@ -32,7 +28,8 @@ namespace WebApi.Repositories
 
         public bool Delete(int taskId)
         {
-            return _tasks.Remove(taskId); 
+            _tasks.EnsureKeyExists(taskId);
+            return _tasks.Remove(taskId);
         }
 
         public void DeleteAll()
@@ -44,18 +41,8 @@ namespace WebApi.Repositories
 
         public bool Update(int taskId, TaskItem newTask)
         {
-            if (!_tasks.ContainsKey(taskId))
-            {
-                return false;
-            }
+            _tasks.EnsureKeyExists(taskId);
 
-            // Проверяем, что Title уникален (исключая текущую задачу)
-            if (_tasks.Values.Any(task => task.Title == newTask.Title && task.Id != taskId))
-            {
-                throw new ArgumentException($"Task with Title '{newTask.Title}' already exists.");
-            }
-
-            // Обновляем задачу
             newTask.Id = taskId;
             _tasks[taskId] = newTask;
 
