@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\g\\ToDoList-main\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F4811-C712-40CB-ADB5-4F4C78967F0E}|..\\DataAccess\\DataAccess.csproj|d:\\g\\todolist-main\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F4811-C712-40CB-ADB5-4F4C78967F0E}|..\\DataAccess\\DataAccess.csproj|d:\\g\\todolist-main\\dataaccess\\configurations\\taskenityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1F4811-C712-40CB-ADB5-4F4C78967F0E}|..\\DataAccess\\DataAccess.csproj|d:\\g\\todolist-main\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|d:\\g\\todolist-main\\webapi\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38593ED7-406F-4464-B449-A6335DC50666}|WebApi.csproj|solutionrelative:middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9B3812-A878-4A03-A7F9-8EA1ACCCCDED}|..\\Domain\\Domain.csproj|d:\\g\\todolist-main\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi.csproj",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T17:14:12.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:51:12.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:48:02.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\g\\ToDoList-main\\WebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T19:47:36.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskEnityConfiguration.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\DataAccess\\Configurations\\TaskEnityConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Configurations\\TaskEnityConfiguration.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\DataAccess\\Configurations\\TaskEnityConfiguration.cs",
+              "RelativeToolTip": "..\\DataAccess\\Configurations\\TaskEnityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:45:09.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\AppDbContext.cs",
+              "ToolTip": "D:\\g\\ToDoList-main\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "..\\DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:43:11.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain.csproj",
+              "ToolTip": "D:\\g\\ToDoList-main\\Domain\\Domain.csproj",
+              "RelativeToolTip": "..\\Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T19:37:56.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "D:\\g\\ToDoList-main\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\g\\ToDoList-main\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "..\\DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T19:31:38.224Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
